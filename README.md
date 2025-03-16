@@ -13,8 +13,7 @@ Une application React Native qui affiche la météo en temps réel pour différe
 - API OpenWeatherMap  
 
 ## Installation
-1. Clonez le dépôt :  
-   git clone https://github.com/AsmaeMouncif/weather01.git
+1. Clonez le dépôt :git clone https://github.com/AsmaeMouncif/weather01.git
 
 2. Accédez au dossier du projet :
    cd weather01
