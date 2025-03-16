@@ -21,5 +21,5 @@ Une application React Native qui affiche la météo en temps réel pour différe
 3. Installez les dépendances :
    npm install
 
-4.Lancez l’application :npm start -- --reset-cache
+4. Lancez l’application :npm start -- --reset-cache
 
